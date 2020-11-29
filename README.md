@@ -6,13 +6,12 @@
 
 Short Any type Link.
 
+## For more help join Telegram Group:
+
 ◑https://t.me/AD0000000
 
 ◑http://t.me/linux_repo
 
-◑https://github.com/AbirHasan2005
-
-## For more help join Telegram Group: http://t.me/linux_repo
 ## Follow on:
 <p align="left">
 <a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
