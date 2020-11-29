@@ -4,7 +4,9 @@
 
 `python3 url shortner.py`
 
-Short Any type Link.
+## Support Desktop Windows & Terminal
+
+Short Any type Link. With tiny url.
 
 ## For more help join Telegram Group:
 
