@@ -8,8 +8,7 @@ Short Any type Link.
 
 ## For more help join Telegram Group:
 
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Follow on:
 <p align="left">
